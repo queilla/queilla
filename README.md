@@ -1,12 +1,12 @@
 # Olá <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Queila+Cristina)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Queila+Cristina; Desenvolvedora Front-End)](https://git.io/typing-svg)
 
 <br>
 Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 <br/>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
-<img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=samuel8815&style=flat-square">
+<img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
 - 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql
@@ -19,7 +19,7 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 
 
   <a href = "mailto:samuelpereirasilva710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuelpereira8815//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in///" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 ## Linguagens e Habilidades 
@@ -55,14 +55,14 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel8815&layout=compact&langs_count=7&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=queilla&layout=compact&langs_count=7&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=queilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
