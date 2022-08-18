@@ -11,14 +11,14 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 - 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql
 - 💞️ Estou procurando colaborar em projetos iniciantes
-- 📫 samuelpereirasilva710@gmail.com
+- 📫 queillacristina96@gmail.com
 
 
 ## Entre em Contato Comigo
 
 
 
-  <a href = "mailto:samuelpereirasilva710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:queillacristina96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in///" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
