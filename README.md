@@ -76,6 +76,9 @@ Sou uma Desenvolvedora Junior 💻👩🏻‍
 ## Site completo e funcional com domínio. 
 ![Screenshot 2022-08-18 at 09-00-21 Página Inicial](https://user-images.githubusercontent.com/97989930/185788784-85134b4e-0c39-4b9d-8ed2-023c6ad5d7ce.png)
 
+## Uma calculadora básica em AngularJS!
+![Screenshot 2022-08-18 at 09-25-01 Calculadora](https://user-images.githubusercontent.com/97989930/185789013-0df974cb-8caf-4b0c-b9bc-259d5e9444cc.png)
+
 
 
 
