@@ -9,7 +9,7 @@ Sou uma Desenvolvedora Junior 💻👩🏻‍
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
 - 👀 Estou interessada em PHP, Logica de Programação, JavaScript, Java,  MySql
-- 🌱 Atualmente estou aprendendo Logica de Programação, JavaScript, Java,  MySql, Angular
+- 🌱 Atualmente estou aprendendo Logica de Programação, JavaScript, Java, MySql e Angular.
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 queillacristina96@gmail.com
 
