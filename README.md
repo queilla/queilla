@@ -5,7 +5,7 @@
 <br>
 Sou uma Desenvolvedora Junior 💻👩🏻‍
 <br/>
-<img align="right" alt="Coding" width="400" src=a27b53c54f3da57e497cb29ee372c8fa06640ac4_hq.gif><br />
+<img align="right" alt="Coding" width="400" src="a27b53c54f3da57e497cb29ee372c8fa06640ac4_hq.gif"><br />
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
 - 👀 Estou interessada em PHP, Logica de Programação, JavaScript, Java,  MySql
