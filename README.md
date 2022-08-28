@@ -5,7 +5,7 @@
 <br>
 Sou uma Desenvolvedora Junior 💻👩🏻‍
 <br/>
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/97989930/187068650-233a8cd5-fd7d-4980-9053-ed0a43a9d88b.png)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97989930/187068650-233a8cd5-fd7d-4980-9053-ed0a43a9d88b.png
 "><br />
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
