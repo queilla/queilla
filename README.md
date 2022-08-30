@@ -70,7 +70,7 @@ Sou uma Desenvolvedora Junior 💻👩🏻‍
 ## **Minha constribuições nesse ano**
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90639226/184780427-ce0be907-eef4-4832-aa97-c51532de66c6.gif)
 
-## Formulario JavaScript
+## Tela de Cadastro JavaScript
 ![fwdfs](https://user-images.githubusercontent.com/97989930/184999983-a4a6bd44-2795-4f9d-bf32-a2f006548503.png)
 
 ## Site completo e funcional com domínio. 
