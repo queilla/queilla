@@ -8,8 +8,8 @@ Sou uma Desenvolvedora Junior 💻👩🏻‍
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/Banou26/f19dfc5599bc02861cf7ec8758ea1399/raw/fbed6c395374df2e3817ee0f9358a9e1ea16f0a2/NewGame.gif"><br />
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
-- 👀 Estou interessada em PHP, Logica de Programação, JavaScript, Java, MySql.
-- 🌱 Atualmente estou aprendendo Logica de Programação, JavaScript, Java, MySql e Angular.
+- 👀 Estou interessada em PHP, Python, JavaScript, MySql, C# .
+- 🌱 Atualmente estou aprendendo Logica de Programação, JavaScript, PHP e Python.
 - 💞️ Estou procurando colaborar em projetos iniciantes!
 - 📫 queillacristina96@gmail.com
 
