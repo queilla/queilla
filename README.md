@@ -9,7 +9,7 @@ Sou uma Desenvolvedora Junior 💻👩🏻‍
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
 - 👀 Estou interessada em PHP, Python, JavaScript, MySql, C# .
-- 🌱 Atualmente estou aprendendo Logica de Programação, JavaScript, PHP e Python.
+- 🌱 Atualmente estou aprendendo  JavaScript, PHP e Python.
 - 💞️ Estou procurando colaborar em projetos iniciantes!
 - 📫 queillacristina96@gmail.com
 
@@ -74,7 +74,7 @@ Sou uma Desenvolvedora Junior 💻👩🏻‍
 ![fwdfs](https://user-images.githubusercontent.com/97989930/184999983-a4a6bd44-2795-4f9d-bf32-a2f006548503.png)
 
 ## Site completo e funcional com domínio.
-https://shalomgrup.ml/?i=1
+ Link do Site : https://shalomgrup.ml/?i=1
 ![Screenshot 2022-08-18 at 09-00-21 Página Inicial](https://user-images.githubusercontent.com/97989930/185788784-85134b4e-0c39-4b9d-8ed2-023c6ad5d7ce.png)
 
 ## Uma calculadora básica em AngularJS!
