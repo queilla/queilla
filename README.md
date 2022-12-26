@@ -1,6 +1,6 @@
 # Olá <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=FF1493&vCenter=true&width=600&height=70&lines=Eu+Sou+Queilla+Cristina)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=FF1493&vCenter=true&width=600&height=70&lines=Eu+Sou+Queilla+Bacelar)](https://git.io/typing-svg)
 
 <br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/Banou26/f19dfc5599bc02861cf7ec8758ea1399/raw/fbed6c395374df2e3817ee0f9358a9e1ea16f0a2/NewGame.gif"><br />
