@@ -65,7 +65,6 @@
   </a>
 </p>
 
-   ## **Minha constribuições nesse ano**
 
 ## Tela de Cadastro JavaScript
 ![fwdfs](https://user-images.githubusercontent.com/97989930/184999983-a4a6bd44-2795-4f9d-bf32-a2f006548503.png)
