@@ -2,13 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=FF1493&vCenter=true&width=600&height=70&lines=Eu+Sou+Queilla+Cristina)](https://git.io/typing-svg)
 
-
 <br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/Banou26/f19dfc5599bc02861cf7ec8758ea1399/raw/fbed6c395374df2e3817ee0f9358a9e1ea16f0a2/NewGame.gif"><br />
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
 - 👀 Estou interessada em PHP, Python, JavaScript e Angular .
-- 🌱 Atualmente estou aprendendo JavaScript, PHP , Python e Angular.
+- 🌱 Atualmente aprendendo JavaScript, PHP, Python e Angular.
 - 💞️ Estou procurando colaborar em projetos iniciantes!
 - 📫 queillacristina96@gmail.com
 
