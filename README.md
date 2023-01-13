@@ -45,25 +45,6 @@
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
      
 
- </a>
-</p>
-</br>
-</br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=queilla&layout=compact&langs_count=7&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=queilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    />
-  </a>
-</p>
 
 
 ## Tela de Cadastro JavaScript
