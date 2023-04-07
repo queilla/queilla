@@ -44,7 +44,7 @@
  
   ![ VScode ](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-     
+  ![ Pycharm ](https://img.shields.io/badge/Pycharm-0078D4?style=for-the-badge&logo=Pycharm&logoColor=white)
 
 
 
