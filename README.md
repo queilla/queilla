@@ -48,7 +48,7 @@
 
 
 
-## Tela de Cadastro JavaScript
+## Tela de Cadastro simples
 ![fwdfs](https://user-images.githubusercontent.com/97989930/184999983-a4a6bd44-2795-4f9d-bf32-a2f006548503.png)
 
 ## Site completo e funcional com domínio.
