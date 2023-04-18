@@ -7,7 +7,7 @@
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
 
-- 🌱 Atualmente aprendendo JavaScript, Python e Angular.
+- 🌱 Atualmente aprendendo JavaScript,Python,Angular e PHP.
 - 💞️ Estou procurando colaborar em projetos iniciantes!
 - 📫 queillacristina96@gmail.com
 
