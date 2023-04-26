@@ -9,14 +9,14 @@
 
 - 🌱 Atualmente aprendendo JavaScript,Python,Angular e PHP.
 - 💞️ Estou procurando colaborar em projetos iniciantes!
-- 📫 queillacristina96@gmail.com
+- 📫 hazyd722@gmail.com
 
 
 ## Entre em Contato Comigo
 
 
 
-  <a href = "mailto:queillacristina96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hazyd722@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/queilla-bacelar-555023228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
