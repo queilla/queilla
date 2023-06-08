@@ -7,7 +7,7 @@
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=quilla&style=flat-square">
 
 
-- 🌱 Atualmente aprendendo JavaScript,Python,Angular e PHP.
+- 🌱 Atualmente aprendendo Python .
 - 💞️ Estou procurando colaborar em projetos iniciantes!
 - 📫 hazyd722@gmail.com
 
