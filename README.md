@@ -1,4 +1,4 @@
-# Olá  
+# Olá  < img = https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Ff19dfc5599bc02861cf7ec8758ea1399&psig=AOvVaw10Qc2wYnU6etAxEDdG-IgG&ust=1712591173429000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD897a5sIUDFQAAAAAdAAAAABAT /img>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=FF1493&vCenter=true&width=600&height=70&lines=Eu+Sou+Queilla+Bacelar)](https://git.io/typing-svg)
 
