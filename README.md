@@ -52,7 +52,7 @@
 ![fwdfs](https://user-images.githubusercontent.com/97989930/184999983-a4a6bd44-2795-4f9d-bf32-a2f006548503.png)
 
 ## Site completo e funcional com domínio.
- Link do Site : https://shalomgrup.ml/?i=1
+
 ![Screenshot 2022-08-18 at 09-00-21 Página Inicial](https://user-images.githubusercontent.com/97989930/185788784-85134b4e-0c39-4b9d-8ed2-023c6ad5d7ce.png)
 
 ##  calculadora básica.
