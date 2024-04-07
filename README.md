@@ -1,7 +1,8 @@
-# Olá  <img ![NewGame](https://github.com/queilla/queilla/assets/97989930/6e5ba4f4-93bd-478c-9e8a-586b1a725686)>
+# Olá   
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=FF1493&vCenter=true&width=600&height=70&lines=Eu+Sou+Queilla+Bacelar )](https://git.io/typing-svg)
+![NewGame](https://github.com/queilla/queilla/assets/97989930/6e5ba4f4-93bd-478c-9e8a-586b1a725686)
 
 
 <br/>
